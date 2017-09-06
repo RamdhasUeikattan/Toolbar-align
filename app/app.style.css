@@ -1,0 +1,18 @@
+.e-toolbar,
+.e-toolbar .e-toolbar-items {
+    background-color: aliceblue;
+}
+
+.e-toolbar-items .e-btn {
+    background-color: aliceblue;
+}
+
+#Grid_searchbar{ /* Here Grid_searchbar is GridID + '_' + searchbar*/
+    width:  200px;
+    height: 20px;
+}
+
+.rowcount{
+    line-height: 25px;
+    font-size: 14px;
+}
